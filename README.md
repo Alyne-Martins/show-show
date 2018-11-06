@@ -28,8 +28,12 @@ Criamos a apresentação (Pitch) em Slides utilizando o Google Apresentações: 
 #### versão 1.0.0 (released)
 - desenvolvida para dispositivo mobile;
 - implementação de tarefas de busca por artista, região e data de eventos;
+
+
+#### versão 2.0.0 
 - possibilidade de encontrar amigos que marcaram presença em determinado evento.
 
+## Imagens do projeto 
 
 ![show_1](https://user-images.githubusercontent.com/39528553/48042966-46c70b00-e16b-11e8-9aab-409a2257c466.PNG)
 ![show_2](https://user-images.githubusercontent.com/39528553/48042981-59d9db00-e16b-11e8-9890-3362d8c0a256.PNG)
